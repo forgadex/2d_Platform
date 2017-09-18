@@ -12,6 +12,303 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   log:
+  - CommitID: 461e2743f8855f8962f05ff395069f7ce9145c59
+    MergeA: 
+    MergeB: 
+    AuthorName: Rafael Freire
+    AuthorEmail: rafael_escultor@hotmail.com
+    CommitEmail: rafael_escultor@hotmail.com
+    CommitName: Rafael Freire
+    Summary: Main Screen Creation
+    Description: 'Main Screen Creation
+
+
+      -First Screen has been created
+
+      -Basic Animation added
+
+      -Stack of buttons and Scene load.
+
+      -Exit Button added'
+    TimeString: 09/18/2017 10:31:21 +01:00
+    CommitTimeString: 09/18/2017 10:31:21 +01:00
+    Changes:
+    - Path: 2D_Platform.sln
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/2D_Platform.sln
+      ProjectPath: 2D_Platform.sln
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Assembly-CSharp.csproj
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assembly-CSharp.csproj
+      ProjectPath: Assembly-CSharp.csproj
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Animations.meta
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Animations.meta
+      ProjectPath: Assets/Animations.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Animations/Main_Screen_Animation.anim
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Animations/Main_Screen_Animation.anim
+      ProjectPath: Assets/Animations/Main_Screen_Animation.anim
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Animations/Main_Screen_Animation.anim.meta
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Animations/Main_Screen_Animation.anim.meta
+      ProjectPath: Assets/Animations/Main_Screen_Animation.anim.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Animations/Text_Animation.controller
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Animations/Text_Animation.controller
+      ProjectPath: Assets/Animations/Text_Animation.controller
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Animations/Text_Animation.controller.meta
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Animations/Text_Animation.controller.meta
+      ProjectPath: Assets/Animations/Text_Animation.controller.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/New_Scene.unity
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/New_Scene.unity
+      ProjectPath: Assets/New_Scene.unity
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets/Scenes.meta
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Scenes.meta
+      ProjectPath: Assets/Scenes.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Main_Screen.unity
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Scenes/Main_Screen.unity
+      ProjectPath: Assets/Scenes/Main_Screen.unity
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scenes/Main_Screen.unity.meta
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Scenes/Main_Screen.unity.meta
+      ProjectPath: Assets/Scenes/Main_Screen.unity.meta
+      OriginalPath: Assets/New_Scene.unity.meta
+      Status: 6
+      Staged: 0
+    - Path: Assets/Scripts.meta
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Scripts.meta
+      ProjectPath: Assets/Scripts.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/Buttons_Action.cs
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Scripts/Buttons_Action.cs
+      ProjectPath: Assets/Scripts/Buttons_Action.cs
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Assets/Scripts/Buttons_Action.cs.meta
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Assets/Scripts/Buttons_Action.cs.meta
+      ProjectPath: Assets/Scripts/Buttons_Action.cs.meta
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/CrashedAssetImports.txt
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/CrashedAssetImports.txt
+      ProjectPath: Library/CrashedAssetImports.txt
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/CurrentLayout.dwlt
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/CurrentLayout.dwlt
+      ProjectPath: Library/CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/InspectorExpandedItems.asset
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/InspectorExpandedItems.asset
+      ProjectPath: Library/InspectorExpandedItems.asset
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/ScriptAssemblies/Assembly-CSharp.dll
+      ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      ProjectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/3/341c4023639d3f1ce7892797765905f1.bin
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/ShaderCache/3/341c4023639d3f1ce7892797765905f1.bin
+      ProjectPath: Library/ShaderCache/3/341c4023639d3f1ce7892797765905f1.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/ShaderCache/d/dff00508a6a3c0f333e72ab2e286acdf.bin
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/ShaderCache/d/dff00508a6a3c0f333e72ab2e286acdf.bin
+      ProjectPath: Library/ShaderCache/d/dff00508a6a3c0f333e72ab2e286acdf.bin
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/assetDatabase3
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/assetDatabase3
+      ProjectPath: Library/assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/expandedItems
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/expandedItems
+      ProjectPath: Library/expandedItems
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/gfu/cache/gitlog.yaml
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/gfu/cache/gitlog.yaml
+      ProjectPath: Library/gfu/cache/gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/2b/2b72e86a01b0d4e8a8fedb69dae10279
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/2b/2b72e86a01b0d4e8a8fedb69dae10279
+      ProjectPath: Library/metadata/2b/2b72e86a01b0d4e8a8fedb69dae10279
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/2b/2b72e86a01b0d4e8a8fedb69dae10279.info
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/2b/2b72e86a01b0d4e8a8fedb69dae10279.info
+      ProjectPath: Library/metadata/2b/2b72e86a01b0d4e8a8fedb69dae10279.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/32/32fbe6824782b4aa990743ea725f1062
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/32/32fbe6824782b4aa990743ea725f1062
+      ProjectPath: Library/metadata/32/32fbe6824782b4aa990743ea725f1062
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/32/32fbe6824782b4aa990743ea725f1062.info
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/32/32fbe6824782b4aa990743ea725f1062.info
+      ProjectPath: Library/metadata/32/32fbe6824782b4aa990743ea725f1062.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/79/794de1168036f4ef2bff79699968228f
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/79/794de1168036f4ef2bff79699968228f
+      ProjectPath: Library/metadata/79/794de1168036f4ef2bff79699968228f
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/79/794de1168036f4ef2bff79699968228f.info
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/79/794de1168036f4ef2bff79699968228f.info
+      ProjectPath: Library/metadata/79/794de1168036f4ef2bff79699968228f.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/d2/d25f1f5dd8db641dea91373f9ed8894c
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/d2/d25f1f5dd8db641dea91373f9ed8894c
+      ProjectPath: Library/metadata/d2/d25f1f5dd8db641dea91373f9ed8894c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/d2/d25f1f5dd8db641dea91373f9ed8894c.info
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/d2/d25f1f5dd8db641dea91373f9ed8894c.info
+      ProjectPath: Library/metadata/d2/d25f1f5dd8db641dea91373f9ed8894c.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ea/ea2118c27af364b8090dd0066d69a162
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/ea/ea2118c27af364b8090dd0066d69a162
+      ProjectPath: Library/metadata/ea/ea2118c27af364b8090dd0066d69a162
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/ea/ea2118c27af364b8090dd0066d69a162.info
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/ea/ea2118c27af364b8090dd0066d69a162.info
+      ProjectPath: Library/metadata/ea/ea2118c27af364b8090dd0066d69a162.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f2/f2bfb94be36f14fa8bad5831b9237778
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/f2/f2bfb94be36f14fa8bad5831b9237778
+      ProjectPath: Library/metadata/f2/f2bfb94be36f14fa8bad5831b9237778
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/f2/f2bfb94be36f14fa8bad5831b9237778.info
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/f2/f2bfb94be36f14fa8bad5831b9237778.info
+      ProjectPath: Library/metadata/f2/f2bfb94be36f14fa8bad5831b9237778.info
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library/metadata/f5/f56de8ef7ce78499caf703959931f509
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/f5/f56de8ef7ce78499caf703959931f509
+      ProjectPath: Library/metadata/f5/f56de8ef7ce78499caf703959931f509
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/metadata/f5/f56de8ef7ce78499caf703959931f509.info
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/metadata/f5/f56de8ef7ce78499caf703959931f509.info
+      ProjectPath: Library/metadata/f5/f56de8ef7ce78499caf703959931f509.info
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library/shadercompiler-UnityShaderCompiler0.log
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Library/shadercompiler-UnityShaderCompiler0.log
+      ProjectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Temp/UnityTempFile-0781ff88679e24a71892ff887ca8b412
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Temp/UnityTempFile-0781ff88679e24a71892ff887ca8b412
+      ProjectPath: Temp/UnityTempFile-0781ff88679e24a71892ff887ca8b412
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-0cbd8857f0bbb4139a1dff9b334614ca
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Temp/UnityTempFile-0cbd8857f0bbb4139a1dff9b334614ca
+      ProjectPath: Temp/UnityTempFile-0cbd8857f0bbb4139a1dff9b334614ca
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-2d15a75063990404f9ebfca5bd47a7d7
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Temp/UnityTempFile-2d15a75063990404f9ebfca5bd47a7d7
+      ProjectPath: Temp/UnityTempFile-2d15a75063990404f9ebfca5bd47a7d7
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-69c3ef86e748d40d88d4732c9858e20c
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Temp/UnityTempFile-69c3ef86e748d40d88d4732c9858e20c
+      ProjectPath: Temp/UnityTempFile-69c3ef86e748d40d88d4732c9858e20c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-a6fa6289656bd4fbaa944aba03c147e1
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Temp/UnityTempFile-a6fa6289656bd4fbaa944aba03c147e1
+      ProjectPath: Temp/UnityTempFile-a6fa6289656bd4fbaa944aba03c147e1
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/UnityTempFile-b01195d9d95964deab92f5bba58b519c
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Temp/UnityTempFile-b01195d9d95964deab92f5bba58b519c
+      ProjectPath: Temp/UnityTempFile-b01195d9d95964deab92f5bba58b519c
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Temp/__Backupscenes/0.backup
+      FullPath: /Users/rfreire/Documents/Games_Forgadex/2D_Platform/Temp/__Backupscenes/0.backup
+      ProjectPath: Temp/__Backupscenes/0.backup
+      OriginalPath: 
+      Status: 4
+      Staged: 0
   - CommitID: 6176092f7bbf6bcabfd67e68125fb8c1c3531a2c
     MergeA: 
     MergeB: 
